@@ -22,4 +22,9 @@ EXPERIMENT_CONFIGS: Dict[str, ExperimentConfig] = {
         question_type="code",
         operators=["Generate", "GenerateCoT", "MultiGenerateCoT", "ScEnsemble", "Test", "SelfRefine", "EarlyStop"],
     ),
+    "asdiv_test": ExperimentConfig(
+        dataset="asdiv_test",
+        question_type="math_word",
+        operators=[... your operators ...],
+    ),
 }
