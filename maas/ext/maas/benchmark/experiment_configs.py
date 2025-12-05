@@ -22,4 +22,9 @@ EXPERIMENT_CONFIGS: Dict[str, ExperimentConfig] = {
         question_type="code",
         operators=["Generate", "GenerateCoT", "MultiGenerateCoT", "ScEnsemble", "Test", "SelfRefine", "EarlyStop"],
     ),
+    "SquAD": ExperimentConfig(
+    dataset="SquAD",
+    question_type="qa",
+    operators=["Generate", "ScEnsemble", "SelfRefine", "EarlyStop"], 
+),
 }

@@ -1,0 +1,128 @@
+====================================================================================================
+MaAS ON SQUAD: ANALYSIS REPORT
+
+Student: Vrinda Shinde
+Assignment: Multi-agent Architecture Search on SQuAD
+
+====================================================================================================
+EXECUTIVE SUMMARY
+
+This report presents the results of attempting to apply Multi-agent Architecture Search (MaAS)
+to the SQuAD reading comprehension benchmark. Despite multiple adjustments, MaAS failed
+to produce meaningful results on QA tasks due to structural incompatibilities with the dataset.
+
+Key Observations:
+• Dataset: SQuAD v1.1 (QA reading comprehension)
+• MaAS Failure: Operators not suitable for text span extraction
+• Evaluation Failure: Exact-match scoring not supported by MaAS operators
+• Root Cause: Fundamental mismatch between MaAS architecture and QA dataset requirements
+
+====================================================================================================
+
+METHODOLOGY
+====================================================================================================
+
+1.1 Attempted MaAS Architecture for QA
+
+MaAS was configured to use its standard multi-agent operators:
+
+Available Operators (Attempted Use):
+
+Extract - Attempted to extract answer text from context
+
+Rephrase - Tried simplifying questions to improve extraction
+
+MultiExtract - Multiple candidate answer spans
+
+SelfVerify - Validate extracted spans against context
+
+ConfidenceScore - Score candidate answers
+
+EarlyStop - Terminate reasoning if confident
+
+Adjustment Notes:
+• Input format adapted: “Context + Question → Answer”
+• Output expected: exact text match from context
+• Multiple trials conducted with different operator sequences
+
+1.2 Training / Evaluation Setup
+
+• Dataset: SQuAD v1.1, 200 QA pairs sampled
+• LLM: GPT-4o-mini
+• Samples per question: 2
+• Batch size: 4
+• Controller: 4-layer neural network with 384-dim embeddings
+• Optimization: Policy gradient (REINFORCE)
+
+Despite these adaptations, the pipeline failed to execute properly due to dataset-architecture mismatch.
+
+====================================================================================================
+2. OBSERVED FAILURES
+2.1 Execution Failures
+
+• MaAS operators produced errors when applied to text spans instead of structured outputs.
+• SelfVerify and ConfidenceScore operators could not parse string outputs correctly.
+• MultiExtract generated multiple answers, but MaAS could not evaluate correctness against context.
+
+2.2 Incompatible Evaluation
+
+• MaAS expects deterministic solutions with a clear correctness function.
+• SQuAD evaluation requires exact-match or F1 scoring on text spans.
+• No operator existed to compute exact-match, leading to complete pipeline failure.
+
+2.3 Common Failure Patterns
+
+• Operator mismatch: Generate/Test/Refine operators designed for code/math outputs.
+• Search failure: Controller cannot optimize QA outputs without functional feedback.
+• Input-output format issues: Context and question as text not compatible with MaAS supernet.
+
+Root Cause Summary:
+MaAS architecture assumes a functional output space (code, numbers, formulas).
+QA datasets provide textual span outputs that cannot be processed or verified by MaAS operators.
+
+====================================================================================================
+3. LESSONS LEARNED
+3.1 Key Findings
+
+MaAS is unsuitable for QA datasets like SQuAD without major redesign.
+
+Attempting to use it reveals critical differences between structured problem-solving and text extraction tasks.
+
+Failure is due to:
+• Operator design mismatch
+• Evaluation function mismatch
+• Search and reasoning assumptions not valid for span-based QA
+
+3.2 Strengths of MaAS (contextual)
+
+• Excellent for deterministic, multi-step problem-solving tasks
+• Neural controller effectively selects operator sequences in code/math tasks
+
+3.3 Weaknesses Observed
+
+• Cannot handle unstructured textual outputs
+• Cannot evaluate text spans without external QA metrics
+• Multi-agent search over text spans fails to converge
+
+3.4 Recommendations
+
+Use MaAS only on structured benchmarks like HumanEval, MathQA, or Text-to-SQL.
+
+For QA datasets, consider specialized extractive models (e.g., span-based transformers).
+
+Alternatively, convert QA tasks into multiple-choice format for MaAS compatibility.
+
+Document failure cases as part of benchmarking to demonstrate analytical rigor.
+
+====================================================================================================
+4. CONCLUSION
+
+The attempt to run MaAS on SQuAD highlights the limitations of MaAS for QA-style datasets.
+While the architecture excels in deterministic problem-solving tasks, it is fundamentally incompatible
+with reading comprehension tasks that require textual span extraction and exact-match evaluation.
+
+This exercise provides valuable insight into dataset-architecture alignment and reinforces the importance
+of choosing benchmarks that match the strengths of a multi-agent reasoning system.
+
+====================================================================================================
+END OF REPORT

@@ -1,0 +1,1144 @@
+2025-12-03 00:21:00.512 | INFO     | maas.ext.maas.scripts.optimizer:_optimize_graph_maas:108 - maas/ext/maas/scripts/optimized/SquAD/train\round_1
+2025-12-03 00:21:00.560 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:124 - Starting training repetition 1/1
+2025-12-03 00:21:02.640 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.953(s), this was the 1st time calling it.
+2025-12-03 00:21:02.752 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.406(s), this was the 1st time calling it.
+2025-12-03 00:21:02.847 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.453(s), this was the 1st time calling it.
+2025-12-03 00:21:02.893 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.453(s), this was the 1st time calling it.
+2025-12-03 00:21:04.165 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.828(s), this was the 2nd time calling it.
+2025-12-03 00:21:04.340 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.656(s), this was the 2nd time calling it.
+2025-12-03 00:21:04.688 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.297(s), this was the 2nd time calling it.
+2025-12-03 00:21:05.068 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.640(s), this was the 2nd time calling it.
+2025-12-03 00:21:06.732 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.343(s), this was the 3rd time calling it.
+2025-12-03 00:21:07.066 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.625(s), this was the 3rd time calling it.
+2025-12-03 00:21:07.069 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.734(s), this was the 3rd time calling it.
+2025-12-03 00:21:07.477 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.796(s), this was the 3rd time calling it.
+2025-12-03 00:21:09.213 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.781(s), this was the 4th time calling it.
+2025-12-03 00:21:10.683 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.297(s), this was the 4th time calling it.
+2025-12-03 00:21:11.714 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.031(s), this was the 4th time calling it.
+2025-12-03 00:21:12.426 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.078(s), this was the 4th time calling it.
+2025-12-03 00:21:12.759 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.375(s), this was the 5th time calling it.
+2025-12-03 00:21:15.122 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.781(s), this was the 5th time calling it.
+2025-12-03 00:21:15.153 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.718(s), this was the 5th time calling it.
+2025-12-03 00:21:17.581 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.140(s), this was the 6th time calling it.
+2025-12-03 00:21:17.583 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:17.583 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:20.858 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 00:21:20.954 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.265(s), this was the 5th time calling it.
+2025-12-03 00:21:22.267 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.657(s), this was the 2nd time calling it.
+2025-12-03 00:21:23.534 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.187(s), this was the 6th time calling it.
+2025-12-03 00:21:23.535 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:23.535 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:23.566 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.172(s), this was the 6th time calling it.
+2025-12-03 00:21:23.567 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:23.568 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:24.596 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.985(s), this was the 3rd time calling it.
+2025-12-03 00:21:26.548 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.938(s), this was the 4th time calling it.
+2025-12-03 00:21:26.816 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.282(s), this was the 1st time calling it.
+2025-12-03 00:21:26.864 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.265(s), this was the 1st time calling it.
+2025-12-03 00:21:28.579 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.047(s), this was the 2nd time calling it.
+2025-12-03 00:21:28.973 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.375(s), this was the 2nd time calling it.
+2025-12-03 00:21:30.478 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.890(s), this was the 3rd time calling it.
+2025-12-03 00:21:30.841 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.313(s), this was the 3rd time calling it.
+2025-12-03 00:21:31.352 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.671(s), this was the 6th time calling it.
+2025-12-03 00:21:31.353 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:31.354 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:32.687 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.094(s), this was the 4th time calling it.
+2025-12-03 00:21:34.239 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.703(s), this was the 4th time calling it.
+2025-12-03 00:21:34.572 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.969(s), this was the 5th time calling it.
+2025-12-03 00:21:34.795 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.438(s), this was the 1st time calling it.
+2025-12-03 00:21:36.381 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.032(s), this was the 2nd time calling it.
+2025-12-03 00:21:38.425 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.828(s), this was the 5th time calling it.
+2025-12-03 00:21:38.665 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.313(s), this was the 3rd time calling it.
+2025-12-03 00:21:39.044 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.516(s), this was the 5th time calling it.
+2025-12-03 00:21:41.475 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.890(s), this was the 6th time calling it.
+2025-12-03 00:21:41.477 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:41.477 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:42.537 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.938(s), this was the 6th time calling it.
+2025-12-03 00:21:42.539 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:42.539 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:43.902 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.375(s), this was the 6th time calling it.
+2025-12-03 00:21:43.902 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:43.903 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:44.091 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.735(s), this was the 4th time calling it.
+2025-12-03 00:21:44.822 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.344(s), this was the 1st time calling it.
+2025-12-03 00:21:45.963 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.422(s), this was the 1st time calling it.
+2025-12-03 00:21:46.456 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.969(s), this was the 2nd time calling it.
+2025-12-03 00:21:47.218 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.297(s), this was the 1st time calling it.
+2025-12-03 00:21:48.041 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.500(s), this was the 2nd time calling it.
+2025-12-03 00:21:48.815 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.454(s), this was the 5th time calling it.
+2025-12-03 00:21:49.308 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.391(s), this was the 2nd time calling it.
+2025-12-03 00:21:49.703 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.219(s), this was the 3rd time calling it.
+2025-12-03 00:21:50.196 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.656(s), this was the 3rd time calling it.
+2025-12-03 00:21:51.415 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.938(s), this was the 4th time calling it.
+2025-12-03 00:21:51.986 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.437(s), this was the 4th time calling it.
+2025-12-03 00:21:52.290 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.375(s), this was the 3rd time calling it.
+2025-12-03 00:21:53.643 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.094(s), this was the 5th time calling it.
+2025-12-03 00:21:56.004 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.516(s), this was the 5th time calling it.
+2025-12-03 00:21:56.275 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.359(s), this was the 4th time calling it.
+2025-12-03 00:21:58.496 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.578(s), this was the 5th time calling it.
+2025-12-03 00:21:58.672 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 25.313(s), this was the 6th time calling it.
+2025-12-03 00:21:58.672 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:58.673 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:21:58.958 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.406(s), this was the 6th time calling it.
+2025-12-03 00:21:58.959 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:21:58.959 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:02.096 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.422(s), this was the 1st time calling it.
+2025-12-03 00:22:02.269 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.282(s), this was the 1st time calling it.
+2025-12-03 00:22:04.036 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.047(s), this was the 2nd time calling it.
+2025-12-03 00:22:04.180 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.516(s), this was the 2nd time calling it.
+2025-12-03 00:22:06.374 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.703(s), this was the 3rd time calling it.
+2025-12-03 00:22:07.025 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.047(s), this was the 3rd time calling it.
+2025-12-03 00:22:09.214 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.547(s), this was the 4th time calling it.
+2025-12-03 00:22:10.306 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.329(s), this was the 4th time calling it.
+2025-12-03 00:22:11.164 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 27.688(s), this was the 6th time calling it.
+2025-12-03 00:22:11.165 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:11.166 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:11.433 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.766(s), this was the 5th time calling it.
+2025-12-03 00:22:11.971 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.985(s), this was the 5th time calling it.
+2025-12-03 00:22:13.082 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 27.156(s), this was the 6th time calling it.
+2025-12-03 00:22:13.083 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:13.083 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:14.478 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.312(s), this was the 1st time calling it.
+2025-12-03 00:22:16.129 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.953(s), this was the 2nd time calling it.
+2025-12-03 00:22:16.426 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.313(s), this was the 1st time calling it.
+2025-12-03 00:22:18.265 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.094(s), this was the 3rd time calling it.
+2025-12-03 00:22:18.504 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.391(s), this was the 2nd time calling it.
+2025-12-03 00:22:21.104 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.000(s), this was the 3rd time calling it.
+2025-12-03 00:22:21.820 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.656(s), this was the 4th time calling it.
+2025-12-03 00:22:22.278 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 21.609(s), this was the 6th time calling it.
+2025-12-03 00:22:22.279 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:22.280 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:23.073 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.094(s), this was the 6th time calling it.
+2025-12-03 00:22:23.074 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:23.075 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:23.472 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.297(s), this was the 5th time calling it.
+2025-12-03 00:22:24.602 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.500(s), this was the 4th time calling it.
+2025-12-03 00:22:25.680 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.407(s), this was the 1st time calling it.
+2025-12-03 00:22:26.536 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.453(s), this was the 1st time calling it.
+2025-12-03 00:22:27.930 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.657(s), this was the 2nd time calling it.
+2025-12-03 00:22:28.072 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.969(s), this was the 5th time calling it.
+2025-12-03 00:22:28.407 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.328(s), this was the 2nd time calling it.
+2025-12-03 00:22:30.072 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.797(s), this was the 3rd time calling it.
+2025-12-03 00:22:31.247 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.172(s), this was the 3rd time calling it.
+2025-12-03 00:22:33.563 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.485(s), this was the 4th time calling it.
+2025-12-03 00:22:33.769 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.485(s), this was the 4th time calling it.
+2025-12-03 00:22:35.909 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.734(s), this was the 6th time calling it.
+2025-12-03 00:22:35.910 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:35.910 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:35.941 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.829(s), this was the 6th time calling it.
+2025-12-03 00:22:35.942 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:35.943 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:36.749 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.469(s), this was the 5th time calling it.
+2025-12-03 00:22:39.154 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.234(s), this was the 1st time calling it.
+2025-12-03 00:22:39.314 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.344(s), this was the 1st time calling it.
+2025-12-03 00:22:40.343 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.266(s), this was the 5th time calling it.
+2025-12-03 00:22:40.754 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.781(s), this was the 2nd time calling it.
+2025-12-03 00:22:41.261 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.985(s), this was the 6th time calling it.
+2025-12-03 00:22:41.262 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:41.262 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:41.530 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.609(s), this was the 2nd time calling it.
+2025-12-03 00:22:42.746 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.781(s), this was the 3rd time calling it.
+2025-12-03 00:22:43.649 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.734(s), this was the 3rd time calling it.
+2025-12-03 00:22:44.669 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.406(s), this was the 1st time calling it.
+2025-12-03 00:22:46.820 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.562(s), this was the 2nd time calling it.
+2025-12-03 00:22:47.171 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.250(s), this was the 4th time calling it.
+2025-12-03 00:22:48.084 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.109(s), this was the 4th time calling it.
+2025-12-03 00:22:48.274 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.015(s), this was the 3rd time calling it.
+2025-12-03 00:22:52.398 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.140(s), this was the 4th time calling it.
+2025-12-03 00:22:54.744 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.828(s), this was the 5th time calling it.
+2025-12-03 00:22:55.219 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.953(s), this was the 5th time calling it.
+2025-12-03 00:22:55.457 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.484(s), this was the 5th time calling it.
+2025-12-03 00:22:56.186 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 31.110(s), this was the 6th time calling it.
+2025-12-03 00:22:56.187 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:22:56.188 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:22:56.189 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a7fbb80 state=finished raised APIConnectionError>]
+2025-12-03 00:23:00.656 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.687(s), this was the 6th time calling it.
+2025-12-03 00:23:00.657 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:00.658 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:00.659 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a7d2890 state=finished raised APIConnectionError>]
+2025-12-03 00:23:09.338 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 31.422(s), this was the 6th time calling it.
+2025-12-03 00:23:09.339 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:09.340 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:09.340 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a7fab30 state=finished raised APIConnectionError>]
+2025-12-03 00:23:11.365 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 28.109(s), this was the 6th time calling it.
+2025-12-03 00:23:11.366 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:11.367 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:11.367 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a7d3dc0 state=finished raised APIConnectionError>]
+2025-12-03 00:23:11.387 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:172 - Repetition 1: Batch 1 Loss does not require grad and was skipped.
+2025-12-03 00:23:12.713 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.235(s), this was the 1st time calling it.
+2025-12-03 00:23:12.760 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.235(s), this was the 1st time calling it.
+2025-12-03 00:23:12.887 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.313(s), this was the 1st time calling it.
+2025-12-03 00:23:12.888 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 00:23:14.157 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.672(s), this was the 2nd time calling it.
+2025-12-03 00:23:14.473 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.938(s), this was the 2nd time calling it.
+2025-12-03 00:23:14.591 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.016(s), this was the 2nd time calling it.
+2025-12-03 00:23:14.790 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.156(s), this was the 2nd time calling it.
+2025-12-03 00:23:15.879 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.391(s), this was the 3rd time calling it.
+2025-12-03 00:23:15.927 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.360(s), this was the 3rd time calling it.
+2025-12-03 00:23:16.324 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.797(s), this was the 3rd time calling it.
+2025-12-03 00:23:17.704 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.062(s), this was the 3rd time calling it.
+2025-12-03 00:23:18.165 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.641(s), this was the 4th time calling it.
+2025-12-03 00:23:18.564 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.985(s), this was the 4th time calling it.
+2025-12-03 00:23:19.594 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.110(s), this was the 4th time calling it.
+2025-12-03 00:23:20.654 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.078(s), this was the 5th time calling it.
+2025-12-03 00:23:21.097 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.453(s), this was the 4th time calling it.
+2025-12-03 00:23:25.914 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.281(s), this was the 5th time calling it.
+2025-12-03 00:23:26.287 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.750(s), this was the 5th time calling it.
+2025-12-03 00:23:27.626 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.141(s), this was the 5th time calling it.
+2025-12-03 00:23:31.421 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 19.844(s), this was the 6th time calling it.
+2025-12-03 00:23:31.422 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:31.423 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:33.191 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 21.704(s), this was the 6th time calling it.
+2025-12-03 00:23:33.192 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:33.192 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:34.727 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.296(s), this was the 1st time calling it.
+2025-12-03 00:23:36.138 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 24.610(s), this was the 6th time calling it.
+2025-12-03 00:23:36.139 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:36.139 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:36.141 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.703(s), this was the 2nd time calling it.
+2025-12-03 00:23:36.550 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.344(s), this was the 1st time calling it.
+2025-12-03 00:23:37.482 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.046(s), this was the 3rd time calling it.
+2025-12-03 00:23:38.597 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.391(s), this was the 2nd time calling it.
+2025-12-03 00:23:38.755 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.312(s), this was the 4th time calling it.
+2025-12-03 00:23:39.404 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.265(s), this was the 1st time calling it.
+2025-12-03 00:23:40.322 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 28.687(s), this was the 6th time calling it.
+2025-12-03 00:23:40.323 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:40.324 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:40.814 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.672(s), this was the 2nd time calling it.
+2025-12-03 00:23:41.113 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.906(s), this was the 3rd time calling it.
+2025-12-03 00:23:42.256 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.125(s), this was the 3rd time calling it.
+2025-12-03 00:23:42.342 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.906(s), this was the 5th time calling it.
+2025-12-03 00:23:43.617 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.281(s), this was the 1st time calling it.
+2025-12-03 00:23:43.886 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.688(s), this was the 4th time calling it.
+2025-12-03 00:23:45.342 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.000(s), this was the 2nd time calling it.
+2025-12-03 00:23:46.185 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.047(s), this was the 4th time calling it.
+2025-12-03 00:23:47.278 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.843(s), this was the 6th time calling it.
+2025-12-03 00:23:47.279 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:23:47.280 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:23:47.484 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.140(s), this was the 3rd time calling it.
+2025-12-03 00:23:49.072 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.734(s), this was the 4th time calling it.
+2025-12-03 00:23:50.545 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 00:23:51.796 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.594(s), this was the 5th time calling it.
+2025-12-03 00:23:52.367 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.078(s), this was the 2nd time calling it.
+2025-12-03 00:23:53.650 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.515(s), this was the 5th time calling it.
+2025-12-03 00:23:54.622 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.328(s), this was the 3rd time calling it.
+2025-12-03 00:23:57.101 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.765(s), this was the 5th time calling it.
+2025-12-03 00:23:57.431 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.141(s), this was the 4th time calling it.
+2025-12-03 00:24:00.045 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.750(s), this was the 5th time calling it.
+2025-12-03 00:24:04.568 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.422(s), this was the 6th time calling it.
+2025-12-03 00:24:04.569 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:04.570 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:04.853 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.515(s), this was the 6th time calling it.
+2025-12-03 00:24:04.854 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:04.854 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:04.917 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 29.719(s), this was the 6th time calling it.
+2025-12-03 00:24:04.918 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:04.918 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:07.895 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.313(s), this was the 1st time calling it.
+2025-12-03 00:24:08.086 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.797(s), this was the 6th time calling it.
+2025-12-03 00:24:08.086 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:08.086 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:08.163 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.234(s), this was the 1st time calling it.
+2025-12-03 00:24:08.323 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.469(s), this was the 1st time calling it.
+2025-12-03 00:24:09.543 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.609(s), this was the 2nd time calling it.
+2025-12-03 00:24:09.802 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.938(s), this was the 2nd time calling it.
+2025-12-03 00:24:10.049 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.469(s), this was the 2nd time calling it.
+2025-12-03 00:24:10.986 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.046(s), this was the 3rd time calling it.
+2025-12-03 00:24:11.112 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.250(s), this was the 3rd time calling it.
+2025-12-03 00:24:11.427 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.329(s), this was the 1st time calling it.
+2025-12-03 00:24:12.558 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.985(s), this was the 3rd time calling it.
+2025-12-03 00:24:13.048 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.109(s), this was the 4th time calling it.
+2025-12-03 00:24:13.478 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.375(s), this was the 2nd time calling it.
+2025-12-03 00:24:14.379 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.516(s), this was the 4th time calling it.
+2025-12-03 00:24:15.596 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.485(s), this was the 3rd time calling it.
+2025-12-03 00:24:16.201 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.344(s), this was the 5th time calling it.
+2025-12-03 00:24:17.213 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.281(s), this was the 5th time calling it.
+2025-12-03 00:24:17.817 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.235(s), this was the 4th time calling it.
+2025-12-03 00:24:19.433 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.329(s), this was the 4th time calling it.
+2025-12-03 00:24:19.497 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.641(s), this was the 6th time calling it.
+2025-12-03 00:24:19.498 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:19.499 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:19.876 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.297(s), this was the 5th time calling it.
+2025-12-03 00:24:20.643 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.703(s), this was the 6th time calling it.
+2025-12-03 00:24:20.643 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:20.644 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:22.926 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.406(s), this was the 1st time calling it.
+2025-12-03 00:24:23.878 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.234(s), this was the 1st time calling it.
+2025-12-03 00:24:24.971 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.453(s), this was the 2nd time calling it.
+2025-12-03 00:24:25.608 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.968(s), this was the 2nd time calling it.
+2025-12-03 00:24:27.255 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.141(s), this was the 5th time calling it.
+2025-12-03 00:24:27.620 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.109(s), this was the 3rd time calling it.
+2025-12-03 00:24:27.683 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.047(s), this was the 3rd time calling it.
+2025-12-03 00:24:29.742 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.234(s), this was the 4th time calling it.
+2025-12-03 00:24:32.323 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.687(s), this was the 4th time calling it.
+2025-12-03 00:24:34.289 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 27.719(s), this was the 6th time calling it.
+2025-12-03 00:24:34.290 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:34.291 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:36.621 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.984(s), this was the 5th time calling it.
+2025-12-03 00:24:37.268 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.750(s), this was the 5th time calling it.
+2025-12-03 00:24:37.522 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.218(s), this was the 1st time calling it.
+2025-12-03 00:24:38.603 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.968(s), this was the 6th time calling it.
+2025-12-03 00:24:38.604 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:38.605 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:39.331 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.015(s), this was the 2nd time calling it.
+2025-12-03 00:24:40.237 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.125(s), this was the 6th time calling it.
+2025-12-03 00:24:40.238 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:40.239 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:40.871 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.562(s), this was the 3rd time calling it.
+2025-12-03 00:24:41.979 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.375(s), this was the 1st time calling it.
+2025-12-03 00:24:43.611 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.343(s), this was the 1st time calling it.
+2025-12-03 00:24:44.309 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.704(s), this was the 2nd time calling it.
+2025-12-03 00:24:45.579 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.312(s), this was the 2nd time calling it.
+2025-12-03 00:24:45.880 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.562(s), this was the 4th time calling it.
+2025-12-03 00:24:45.928 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.329(s), this was the 3rd time calling it.
+2025-12-03 00:24:47.959 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.687(s), this was the 3rd time calling it.
+2025-12-03 00:24:48.420 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.813(s), this was the 4th time calling it.
+2025-12-03 00:24:51.809 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.547(s), this was the 4th time calling it.
+2025-12-03 00:24:52.061 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.547(s), this was the 6th time calling it.
+2025-12-03 00:24:52.062 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:24:52.063 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:24:52.408 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.093(s), this was the 5th time calling it.
+2025-12-03 00:24:55.294 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.219(s), this was the 1st time calling it.
+2025-12-03 00:24:55.644 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.032(s), this was the 5th time calling it.
+2025-12-03 00:24:57.661 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.578(s), this was the 2nd time calling it.
+2025-12-03 00:24:59.587 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.328(s), this was the 5th time calling it.
+2025-12-03 00:25:00.487 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.406(s), this was the 3rd time calling it.
+2025-12-03 00:25:05.196 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 24.594(s), this was the 6th time calling it.
+2025-12-03 00:25:05.197 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:05.198 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:05.210 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a873b20 state=finished raised APIConnectionError>]
+2025-12-03 00:25:05.863 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.781(s), this was the 4th time calling it.
+2025-12-03 00:25:06.483 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.171(s), this was the 6th time calling it.
+2025-12-03 00:25:06.484 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:06.485 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:09.776 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.281(s), this was the 1st time calling it.
+2025-12-03 00:25:12.001 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.500(s), this was the 2nd time calling it.
+2025-12-03 00:25:14.330 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.250(s), this was the 5th time calling it.
+2025-12-03 00:25:14.661 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 32.390(s), this was the 6th time calling it.
+2025-12-03 00:25:14.662 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:14.662 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:14.663 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a8a0e80 state=finished raised APIConnectionError>]
+2025-12-03 00:25:15.040 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.547(s), this was the 3rd time calling it.
+2025-12-03 00:25:15.788 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 21.719(s), this was the 6th time calling it.
+2025-12-03 00:25:15.790 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:15.790 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:15.792 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a8a28c0 state=finished raised APIConnectionError>]
+2025-12-03 00:25:16.599 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.109(s), this was the 4th time calling it.
+2025-12-03 00:25:21.275 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.781(s), this was the 5th time calling it.
+2025-12-03 00:25:28.131 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 19.641(s), this was the 6th time calling it.
+2025-12-03 00:25:28.133 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:28.133 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:28.135 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a8723b0 state=finished raised APIConnectionError>]
+2025-12-03 00:25:28.138 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:172 - Repetition 1: Batch 2 Loss does not require grad and was skipped.
+2025-12-03 00:25:29.638 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.328(s), this was the 1st time calling it.
+2025-12-03 00:25:29.716 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.235(s), this was the 1st time calling it.
+2025-12-03 00:25:31.429 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.125(s), this was the 2nd time calling it.
+2025-12-03 00:25:31.936 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.454(s), this was the 2nd time calling it.
+2025-12-03 00:25:33.483 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.000(s), this was the 3rd time calling it.
+2025-12-03 00:25:34.407 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.093(s), this was the 3rd time calling it.
+2025-12-03 00:25:36.601 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.125(s), this was the 4th time calling it.
+2025-12-03 00:25:38.230 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.921(s), this was the 4th time calling it.
+2025-12-03 00:25:39.720 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.406(s), this was the 5th time calling it.
+2025-12-03 00:25:44.874 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.391(s), this was the 5th time calling it.
+2025-12-03 00:25:47.855 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 19.546(s), this was the 6th time calling it.
+2025-12-03 00:25:47.857 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:47.858 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:50.904 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.422(s), this was the 6th time calling it.
+2025-12-03 00:25:50.906 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:25:50.907 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:25:51.205 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.328(s), this was the 1st time calling it.
+2025-12-03 00:25:53.013 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.141(s), this was the 2nd time calling it.
+2025-12-03 00:25:54.233 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.312(s), this was the 1st time calling it.
+2025-12-03 00:25:55.707 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.828(s), this was the 3rd time calling it.
+2025-12-03 00:25:55.866 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.953(s), this was the 2nd time calling it.
+2025-12-03 00:25:57.660 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.734(s), this was the 3rd time calling it.
+2025-12-03 00:25:59.626 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.750(s), this was the 4th time calling it.
+2025-12-03 00:26:01.601 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.734(s), this was the 5th time calling it.
+2025-12-03 00:26:02.219 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.297(s), this was the 4th time calling it.
+2025-12-03 00:26:07.053 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.141(s), this was the 5th time calling it.
+2025-12-03 00:26:09.416 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.500(s), this was the 6th time calling it.
+2025-12-03 00:26:09.417 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:26:09.418 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:26:09.988 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.109(s), this was the 6th time calling it.
+2025-12-03 00:26:09.989 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:26:09.990 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:26:12.746 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.328(s), this was the 1st time calling it.
+2025-12-03 00:26:13.413 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.422(s), this was the 1st time calling it.
+2025-12-03 00:26:14.079 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.656(s), this was the 2nd time calling it.
+2025-12-03 00:26:15.235 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.234(s), this was the 2nd time calling it.
+2025-12-03 00:26:17.205 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.781(s), this was the 3rd time calling it.
+2025-12-03 00:26:17.730 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.734(s), this was the 3rd time calling it.
+2025-12-03 00:26:21.294 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.875(s), this was the 4th time calling it.
+2025-12-03 00:26:22.672 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.672(s), this was the 4th time calling it.
+2025-12-03 00:26:25.602 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.609(s), this was the 5th time calling it.
+2025-12-03 00:26:30.003 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.578(s), this was the 5th time calling it.
+2025-12-03 00:26:38.411 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.406(s), this was the 6th time calling it.
+2025-12-03 00:26:38.412 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:26:38.413 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:26:41.870 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.437(s), this was the 1st time calling it.
+2025-12-03 00:26:42.124 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.703(s), this was the 6th time calling it.
+2025-12-03 00:26:42.126 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:26:42.126 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:26:44.000 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.562(s), this was the 2nd time calling it.
+2025-12-03 00:26:45.365 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 00:26:46.630 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.187(s), this was the 3rd time calling it.
+2025-12-03 00:26:47.457 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.328(s), this was the 2nd time calling it.
+2025-12-03 00:26:48.991 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.875(s), this was the 3rd time calling it.
+2025-12-03 00:26:50.057 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.625(s), this was the 4th time calling it.
+2025-12-03 00:26:50.580 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.453(s), this was the 4th time calling it.
+2025-12-03 00:26:54.637 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.516(s), this was the 5th time calling it.
+2025-12-03 00:26:58.299 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.859(s), this was the 5th time calling it.
+2025-12-03 00:26:59.952 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.828(s), this was the 6th time calling it.
+2025-12-03 00:26:59.953 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:26:59.954 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:27:02.677 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.234(s), this was the 6th time calling it.
+2025-12-03 00:27:02.677 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:27:02.678 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:27:03.313 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.344(s), this was the 1st time calling it.
+2025-12-03 00:27:05.135 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.172(s), this was the 2nd time calling it.
+2025-12-03 00:27:06.104 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.421(s), this was the 1st time calling it.
+2025-12-03 00:27:07.638 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.953(s), this was the 2nd time calling it.
+2025-12-03 00:27:08.049 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.078(s), this was the 3rd time calling it.
+2025-12-03 00:27:09.766 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.078(s), this was the 3rd time calling it.
+2025-12-03 00:27:10.640 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.672(s), this was the 4th time calling it.
+2025-12-03 00:27:11.457 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.765(s), this was the 4th time calling it.
+2025-12-03 00:27:14.748 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.062(s), this was the 5th time calling it.
+2025-12-03 00:27:17.569 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.609(s), this was the 5th time calling it.
+2025-12-03 00:27:21.425 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.734(s), this was the 6th time calling it.
+2025-12-03 00:27:21.427 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:27:21.428 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:27:21.429 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a83f9d0 state=finished raised APIConnectionError>]
+2025-12-03 00:27:27.732 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 25.765(s), this was the 6th time calling it.
+2025-12-03 00:27:27.733 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 00:27:27.734 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 00:27:27.736 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x19f8a8728c0 state=finished raised APIConnectionError>]
+2025-12-03 00:27:27.739 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:172 - Repetition 1: Batch 3 Loss does not require grad and was skipped.
+2025-12-03 00:27:27.854 | INFO     | maas.ext.maas.benchmark.benchmark:save_results_to_csv:66 - Results saved to maas/ext/maas/scripts/optimized/SquAD/train\round_1\0.00000_20251203_002727.csv
+2025-12-03 00:27:27.855 | INFO     | maas.ext.maas.benchmark.benchmark:run_evaluation:213 - Average score on SquAD dataset: 0.00000
+2025-12-03 00:27:27.891 | INFO     | maas.ext.maas.benchmark.benchmark:run_evaluation:219 - Saved controller parameters to maas/ext/maas/scripts/optimized/SquAD/train\round_1\SquAD_controller_sample1.pth
+2025-12-03 00:27:27.892 | INFO     | maas.ext.maas.benchmark.benchmark:run_evaluation:220 - Successfully Finish Training
+2025-12-03 00:27:27.893 | INFO     | maas.ext.maas.scripts.optimizer:optimize:84 - Error occurred: DataUtils.create_result_data() missing 3 required positional arguments: 'avg_cost', 'total_cost', and 'token'. Retrying... (Attempt 1/1)
+2025-12-03 00:27:27.894 | INFO     | maas.ext.maas.scripts.optimizer:optimize:86 - Max retries reached. Moving to next round.
+2025-12-03 00:27:32.896 | INFO     | maas.ext.maas.scripts.optimizer:optimize:96 - Score for round 1: None
+2025-12-03 05:20:40.666 | INFO     | maas.ext.maas.scripts.optimizer:_optimize_graph_maas:114 - maas/ext/maas/scripts/optimized/SquAD/train\round_1
+2025-12-03 05:20:40.732 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:124 - Starting training repetition 1/1
+2025-12-03 05:20:42.650 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.843(s), this was the 1st time calling it.
+2025-12-03 05:20:42.743 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.437(s), this was the 1st time calling it.
+2025-12-03 05:20:42.744 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.375(s), this was the 1st time calling it.
+2025-12-03 05:20:42.808 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.469(s), this was the 1st time calling it.
+2025-12-03 05:20:44.126 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.750(s), this was the 2nd time calling it.
+2025-12-03 05:20:44.205 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.390(s), this was the 2nd time calling it.
+2025-12-03 05:20:44.616 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.281(s), this was the 2nd time calling it.
+2025-12-03 05:20:44.998 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.687(s), this was the 2nd time calling it.
+2025-12-03 05:20:46.197 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.390(s), this was the 3rd time calling it.
+2025-12-03 05:20:46.434 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.063(s), this was the 3rd time calling it.
+2025-12-03 05:20:47.896 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.562(s), this was the 3rd time calling it.
+2025-12-03 05:20:48.403 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.093(s), this was the 3rd time calling it.
+2025-12-03 05:20:49.145 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.328(s), this was the 4th time calling it.
+2025-12-03 05:20:51.207 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.828(s), this was the 4th time calling it.
+2025-12-03 05:20:51.428 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.094(s), this was the 4th time calling it.
+2025-12-03 05:20:52.205 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.890(s), this was the 4th time calling it.
+2025-12-03 05:20:53.303 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.969(s), this was the 5th time calling it.
+2025-12-03 05:20:57.205 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.890(s), this was the 5th time calling it.
+2025-12-03 05:20:57.558 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.188(s), this was the 5th time calling it.
+2025-12-03 05:20:57.654 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.843(s), this was the 5th time calling it.
+2025-12-03 05:20:58.898 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.562(s), this was the 6th time calling it.
+2025-12-03 05:20:58.899 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:20:58.899 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:02.220 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.313(s), this was the 1st time calling it.
+2025-12-03 05:21:03.717 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.406(s), this was the 6th time calling it.
+2025-12-03 05:21:03.717 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:03.718 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:03.781 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.875(s), this was the 2nd time calling it.
+2025-12-03 05:21:05.934 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.032(s), this was the 3rd time calling it.
+2025-12-03 05:21:06.874 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.062(s), this was the 6th time calling it.
+2025-12-03 05:21:06.874 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:06.875 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:06.938 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.204(s), this was the 1st time calling it.
+2025-12-03 05:21:07.651 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.750(s), this was the 4th time calling it.
+2025-12-03 05:21:07.715 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.344(s), this was the 6th time calling it.
+2025-12-03 05:21:07.716 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:07.716 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:08.933 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.204(s), this was the 2nd time calling it.
+2025-12-03 05:21:10.188 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.297(s), this was the 1st time calling it.
+2025-12-03 05:21:10.297 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.563(s), this was the 3rd time calling it.
+2025-12-03 05:21:11.190 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.454(s), this was the 1st time calling it.
+2025-12-03 05:21:12.147 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.265(s), this was the 2nd time calling it.
+2025-12-03 05:21:12.956 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.219(s), this was the 2nd time calling it.
+2025-12-03 05:21:14.954 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.219(s), this was the 3rd time calling it.
+2025-12-03 05:21:15.064 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.172(s), this was the 3rd time calling it.
+2025-12-03 05:21:15.303 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.579(s), this was the 4th time calling it.
+2025-12-03 05:21:15.382 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.485(s), this was the 5th time calling it.
+2025-12-03 05:21:17.349 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.468(s), this was the 4th time calling it.
+2025-12-03 05:21:18.122 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.391(s), this was the 4th time calling it.
+2025-12-03 05:21:19.913 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.188(s), this was the 5th time calling it.
+2025-12-03 05:21:20.548 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.656(s), this was the 5th time calling it.
+2025-12-03 05:21:21.009 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.110(s), this was the 6th time calling it.
+2025-12-03 05:21:21.010 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:21.010 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:23.120 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.391(s), this was the 5th time calling it.
+2025-12-03 05:21:24.475 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.453(s), this was the 1st time calling it.
+2025-12-03 05:21:26.421 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.391(s), this was the 2nd time calling it.
+2025-12-03 05:21:28.121 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 19.234(s), this was the 6th time calling it.
+2025-12-03 05:21:28.122 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:28.122 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:28.627 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.594(s), this was the 3rd time calling it.
+2025-12-03 05:21:31.428 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.407(s), this was the 4th time calling it.
+2025-12-03 05:21:31.492 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.359(s), this was the 1st time calling it.
+2025-12-03 05:21:33.544 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.406(s), this was the 2nd time calling it.
+2025-12-03 05:21:34.007 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 28.282(s), this was the 6th time calling it.
+2025-12-03 05:21:34.007 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:34.008 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:34.534 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.500(s), this was the 5th time calling it.
+2025-12-03 05:21:36.140 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.000(s), this was the 3rd time calling it.
+2025-12-03 05:21:37.303 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.282(s), this was the 1st time calling it.
+2025-12-03 05:21:37.892 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 28.157(s), this was the 6th time calling it.
+2025-12-03 05:21:37.892 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:37.892 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:38.781 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.750(s), this was the 2nd time calling it.
+2025-12-03 05:21:40.526 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.390(s), this was the 4th time calling it.
+2025-12-03 05:21:40.718 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.688(s), this was the 3rd time calling it.
+2025-12-03 05:21:41.163 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.281(s), this was the 1st time calling it.
+2025-12-03 05:21:42.642 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.500(s), this was the 5th time calling it.
+2025-12-03 05:21:43.565 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.672(s), this was the 2nd time calling it.
+2025-12-03 05:21:45.733 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.703(s), this was the 4th time calling it.
+2025-12-03 05:21:46.320 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.437(s), this was the 3rd time calling it.
+2025-12-03 05:21:46.975 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.843(s), this was the 6th time calling it.
+2025-12-03 05:21:46.975 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:46.976 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:47.757 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.735(s), this was the 5th time calling it.
+2025-12-03 05:21:48.012 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 24.985(s), this was the 6th time calling it.
+2025-12-03 05:21:48.013 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:48.013 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:50.423 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.422(s), this was the 1st time calling it.
+2025-12-03 05:21:51.356 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.468(s), this was the 4th time calling it.
+2025-12-03 05:21:51.356 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.328(s), this was the 1st time calling it.
+2025-12-03 05:21:52.358 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.359(s), this was the 2nd time calling it.
+2025-12-03 05:21:52.849 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.813(s), this was the 2nd time calling it.
+2025-12-03 05:21:53.421 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.391(s), this was the 6th time calling it.
+2025-12-03 05:21:53.421 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:21:53.421 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:21:54.606 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.578(s), this was the 3rd time calling it.
+2025-12-03 05:21:54.783 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.781(s), this was the 3rd time calling it.
+2025-12-03 05:21:55.546 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.656(s), this was the 5th time calling it.
+2025-12-03 05:21:56.847 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.406(s), this was the 1st time calling it.
+2025-12-03 05:21:57.542 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.547(s), this was the 4th time calling it.
+2025-12-03 05:21:58.195 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.765(s), this was the 2nd time calling it.
+2025-12-03 05:21:58.590 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.563(s), this was the 4th time calling it.
+2025-12-03 05:22:00.858 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.421(s), this was the 3rd time calling it.
+2025-12-03 05:22:02.651 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.218(s), this was the 4th time calling it.
+2025-12-03 05:22:04.261 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.266(s), this was the 5th time calling it.
+2025-12-03 05:22:04.498 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.469(s), this was the 5th time calling it.
+2025-12-03 05:22:04.675 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.234(s), this was the 5th time calling it.
+2025-12-03 05:22:06.617 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.734(s), this was the 6th time calling it.
+2025-12-03 05:22:06.618 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:06.618 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:09.902 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.265(s), this was the 1st time calling it.
+2025-12-03 05:22:11.918 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.281(s), this was the 2nd time calling it.
+2025-12-03 05:22:12.045 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.016(s), this was the 6th time calling it.
+2025-12-03 05:22:12.046 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:12.047 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:12.708 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.719(s), this was the 6th time calling it.
+2025-12-03 05:22:12.708 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:12.709 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:14.010 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.375(s), this was the 3rd time calling it.
+2025-12-03 05:22:15.402 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.343(s), this was the 1st time calling it.
+2025-12-03 05:22:16.182 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.469(s), this was the 1st time calling it.
+2025-12-03 05:22:17.008 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 21.578(s), this was the 6th time calling it.
+2025-12-03 05:22:17.009 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:17.009 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:17.499 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.437(s), this was the 2nd time calling it.
+2025-12-03 05:22:18.054 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.344(s), this was the 2nd time calling it.
+2025-12-03 05:22:19.104 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.468(s), this was the 4th time calling it.
+2025-12-03 05:22:20.029 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.968(s), this was the 3rd time calling it.
+2025-12-03 05:22:20.454 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.422(s), this was the 1st time calling it.
+2025-12-03 05:22:21.028 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.312(s), this was the 3rd time calling it.
+2025-12-03 05:22:22.672 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.641(s), this was the 2nd time calling it.
+2025-12-03 05:22:23.624 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.906(s), this was the 4th time calling it.
+2025-12-03 05:22:24.227 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.203(s), this was the 3rd time calling it.
+2025-12-03 05:22:24.339 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.281(s), this was the 4th time calling it.
+2025-12-03 05:22:24.370 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.734(s), this was the 5th time calling it.
+2025-12-03 05:22:27.117 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.062(s), this was the 5th time calling it.
+2025-12-03 05:22:28.825 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.109(s), this was the 5th time calling it.
+2025-12-03 05:22:29.444 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.422(s), this was the 4th time calling it.
+2025-12-03 05:22:29.621 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.562(s), this was the 6th time calling it.
+2025-12-03 05:22:29.621 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:29.621 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:29.623 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad690430 state=finished raised APIConnectionError>]
+2025-12-03 05:22:31.085 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.453(s), this was the 6th time calling it.
+2025-12-03 05:22:31.086 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:31.087 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:34.380 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.281(s), this was the 1st time calling it.
+2025-12-03 05:22:34.857 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.828(s), this was the 5th time calling it.
+2025-12-03 05:22:36.508 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.422(s), this was the 2nd time calling it.
+2025-12-03 05:22:36.827 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.109(s), this was the 6th time calling it.
+2025-12-03 05:22:36.827 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:36.828 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:36.828 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad690160 state=finished raised APIConnectionError>]
+2025-12-03 05:22:39.725 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.640(s), this was the 3rd time calling it.
+2025-12-03 05:22:41.426 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.391(s), this was the 6th time calling it.
+2025-12-03 05:22:41.426 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:41.427 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:41.427 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad6939d0 state=finished raised APIConnectionError>]
+2025-12-03 05:22:42.891 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.797(s), this was the 4th time calling it.
+2025-12-03 05:22:51.490 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.406(s), this was the 5th time calling it.
+2025-12-03 05:22:58.308 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 25.219(s), this was the 6th time calling it.
+2025-12-03 05:22:58.308 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:22:58.309 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:22:58.309 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad691cc0 state=finished raised APIConnectionError>]
+2025-12-03 05:22:58.318 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:172 - Repetition 1: Batch 1 Loss does not require grad and was skipped.
+2025-12-03 05:22:59.670 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.313(s), this was the 1st time calling it.
+2025-12-03 05:22:59.700 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.219(s), this was the 1st time calling it.
+2025-12-03 05:22:59.701 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.265(s), this was the 1st time calling it.
+2025-12-03 05:22:59.810 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.422(s), this was the 1st time calling it.
+2025-12-03 05:23:00.921 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.563(s), this was the 2nd time calling it.
+2025-12-03 05:23:01.017 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.532(s), this was the 2nd time calling it.
+2025-12-03 05:23:01.734 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.343(s), this was the 2nd time calling it.
+2025-12-03 05:23:01.924 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.484(s), this was the 2nd time calling it.
+2025-12-03 05:23:04.266 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.782(s), this was the 3rd time calling it.
+2025-12-03 05:23:04.345 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.985(s), this was the 3rd time calling it.
+2025-12-03 05:23:04.807 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.375(s), this was the 3rd time calling it.
+2025-12-03 05:23:04.949 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.562(s), this was the 3rd time calling it.
+2025-12-03 05:23:06.543 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.156(s), this was the 4th time calling it.
+2025-12-03 05:23:07.811 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.375(s), this was the 4th time calling it.
+2025-12-03 05:23:08.241 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.891(s), this was the 4th time calling it.
+2025-12-03 05:23:09.418 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.938(s), this was the 4th time calling it.
+2025-12-03 05:23:11.732 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.296(s), this was the 5th time calling it.
+2025-12-03 05:23:12.728 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.343(s), this was the 5th time calling it.
+2025-12-03 05:23:16.103 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.625(s), this was the 5th time calling it.
+2025-12-03 05:23:17.136 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.782(s), this was the 5th time calling it.
+2025-12-03 05:23:21.054 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.625(s), this was the 6th time calling it.
+2025-12-03 05:23:21.054 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:21.054 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:24.418 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.344(s), this was the 1st time calling it.
+2025-12-03 05:23:26.557 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.485(s), this was the 2nd time calling it.
+2025-12-03 05:23:27.872 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 29.484(s), this was the 6th time calling it.
+2025-12-03 05:23:27.873 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:27.873 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:28.398 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.328(s), this was the 3rd time calling it.
+2025-12-03 05:23:29.450 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.969(s), this was the 6th time calling it.
+2025-12-03 05:23:29.451 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:29.451 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:31.105 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.234(s), this was the 1st time calling it.
+2025-12-03 05:23:32.422 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 34.063(s), this was the 6th time calling it.
+2025-12-03 05:23:32.423 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:32.423 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:32.630 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.172(s), this was the 1st time calling it.
+2025-12-03 05:23:32.756 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.688(s), this was the 4th time calling it.
+2025-12-03 05:23:33.040 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.172(s), this was the 2nd time calling it.
+2025-12-03 05:23:34.628 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.172(s), this was the 2nd time calling it.
+2025-12-03 05:23:35.833 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.390(s), this was the 1st time calling it.
+2025-12-03 05:23:36.136 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.266(s), this was the 3rd time calling it.
+2025-12-03 05:23:36.359 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.281(s), this was the 5th time calling it.
+2025-12-03 05:23:37.648 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.203(s), this was the 3rd time calling it.
+2025-12-03 05:23:38.031 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.593(s), this was the 2nd time calling it.
+2025-12-03 05:23:40.801 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.359(s), this was the 3rd time calling it.
+2025-12-03 05:23:40.803 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.344(s), this was the 4th time calling it.
+2025-12-03 05:23:40.850 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.984(s), this was the 4th time calling it.
+2025-12-03 05:23:42.647 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.203(s), this was the 5th time calling it.
+2025-12-03 05:23:44.047 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.609(s), this was the 4th time calling it.
+2025-12-03 05:23:46.166 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.094(s), this was the 6th time calling it.
+2025-12-03 05:23:46.166 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:46.167 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:48.425 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.547(s), this was the 5th time calling it.
+2025-12-03 05:23:49.471 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.281(s), this was the 1st time calling it.
+2025-12-03 05:23:51.640 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.453(s), this was the 2nd time calling it.
+2025-12-03 05:23:52.230 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 17.796(s), this was the 5th time calling it.
+2025-12-03 05:23:53.817 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.625(s), this was the 3rd time calling it.
+2025-12-03 05:23:54.054 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 24.188(s), this was the 6th time calling it.
+2025-12-03 05:23:54.055 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:54.055 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:54.740 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.281(s), this was the 6th time calling it.
+2025-12-03 05:23:54.741 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:54.741 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:23:55.959 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.781(s), this was the 4th time calling it.
+2025-12-03 05:23:57.388 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.313(s), this was the 1st time calling it.
+2025-12-03 05:23:58.070 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.328(s), this was the 1st time calling it.
+2025-12-03 05:23:58.719 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.641(s), this was the 2nd time calling it.
+2025-12-03 05:23:59.541 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.797(s), this was the 2nd time calling it.
+2025-12-03 05:23:59.733 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 25.296(s), this was the 6th time calling it.
+2025-12-03 05:23:59.733 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:23:59.734 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:01.057 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.875(s), this was the 5th time calling it.
+2025-12-03 05:24:01.742 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.672(s), this was the 3rd time calling it.
+2025-12-03 05:24:02.392 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.641(s), this was the 3rd time calling it.
+2025-12-03 05:24:03.072 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.344(s), this was the 1st time calling it.
+2025-12-03 05:24:03.902 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.156(s), this was the 4th time calling it.
+2025-12-03 05:24:04.551 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.469(s), this was the 4th time calling it.
+2025-12-03 05:24:04.964 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.235(s), this was the 2nd time calling it.
+2025-12-03 05:24:05.266 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.516(s), this was the 5th time calling it.
+2025-12-03 05:24:07.261 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.532(s), this was the 3rd time calling it.
+2025-12-03 05:24:07.514 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.438(s), this was the 5th time calling it.
+2025-12-03 05:24:10.592 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.860(s), this was the 4th time calling it.
+2025-12-03 05:24:11.687 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.500(s), this was the 6th time calling it.
+2025-12-03 05:24:11.688 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:11.689 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:14.968 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.266(s), this was the 1st time calling it.
+2025-12-03 05:24:17.034 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.328(s), this was the 2nd time calling it.
+2025-12-03 05:24:17.401 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.672(s), this was the 5th time calling it.
+2025-12-03 05:24:19.966 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.266(s), this was the 3rd time calling it.
+2025-12-03 05:24:20.412 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.656(s), this was the 6th time calling it.
+2025-12-03 05:24:20.412 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:20.412 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:22.110 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.031(s), this was the 6th time calling it.
+2025-12-03 05:24:22.111 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:22.111 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:23.139 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.438(s), this was the 4th time calling it.
+2025-12-03 05:24:23.709 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.297(s), this was the 1st time calling it.
+2025-12-03 05:24:25.023 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.328(s), this was the 5th time calling it.
+2025-12-03 05:24:25.467 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.047(s), this was the 2nd time calling it.
+2025-12-03 05:24:25.498 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.406(s), this was the 1st time calling it.
+2025-12-03 05:24:27.574 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.484(s), this was the 2nd time calling it.
+2025-12-03 05:24:28.448 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.031(s), this was the 3rd time calling it.
+2025-12-03 05:24:29.700 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.609(s), this was the 3rd time calling it.
+2025-12-03 05:24:32.509 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.422(s), this was the 4th time calling it.
+2025-12-03 05:24:33.417 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.000(s), this was the 4th time calling it.
+2025-12-03 05:24:33.575 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 31.844(s), this was the 6th time calling it.
+2025-12-03 05:24:33.575 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:33.576 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:35.667 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.578(s), this was the 5th time calling it.
+2025-12-03 05:24:36.268 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 22.563(s), this was the 6th time calling it.
+2025-12-03 05:24:36.269 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:36.269 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:36.743 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.328(s), this was the 5th time calling it.
+2025-12-03 05:24:36.836 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 05:24:38.679 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.094(s), this was the 2nd time calling it.
+2025-12-03 05:24:39.410 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.312(s), this was the 6th time calling it.
+2025-12-03 05:24:39.411 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:39.411 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:39.646 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.375(s), this was the 1st time calling it.
+2025-12-03 05:24:40.344 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.750(s), this was the 3rd time calling it.
+2025-12-03 05:24:41.867 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.594(s), this was the 2nd time calling it.
+2025-12-03 05:24:42.852 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.437(s), this was the 1st time calling it.
+2025-12-03 05:24:43.234 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.640(s), this was the 4th time calling it.
+2025-12-03 05:24:44.392 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.969(s), this was the 2nd time calling it.
+2025-12-03 05:24:44.851 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.578(s), this was the 3rd time calling it.
+2025-12-03 05:24:46.621 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.203(s), this was the 3rd time calling it.
+2025-12-03 05:24:48.589 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.313(s), this was the 4th time calling it.
+2025-12-03 05:24:49.351 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.765(s), this was the 5th time calling it.
+2025-12-03 05:24:51.744 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.328(s), this was the 4th time calling it.
+2025-12-03 05:24:53.524 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 31.109(s), this was the 6th time calling it.
+2025-12-03 05:24:53.525 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:24:53.525 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:24:53.968 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.688(s), this was the 5th time calling it.
+2025-12-03 05:24:56.796 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 05:24:58.412 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.875(s), this was the 2nd time calling it.
+2025-12-03 05:25:00.363 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.812(s), this was the 3rd time calling it.
+2025-12-03 05:25:00.779 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 19.359(s), this was the 5th time calling it.
+2025-12-03 05:25:03.049 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.500(s), this was the 4th time calling it.
+2025-12-03 05:25:05.506 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 27.235(s), this was the 6th time calling it.
+2025-12-03 05:25:05.507 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:05.507 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:25:05.508 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad7081f0 state=finished raised APIConnectionError>]
+2025-12-03 05:25:05.698 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.109(s), this was the 6th time calling it.
+2025-12-03 05:25:05.699 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:05.699 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:25:09.036 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.328(s), this was the 1st time calling it.
+2025-12-03 05:25:10.686 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.985(s), this was the 2nd time calling it.
+2025-12-03 05:25:11.400 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 15.859(s), this was the 5th time calling it.
+2025-12-03 05:25:12.383 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 30.969(s), this was the 6th time calling it.
+2025-12-03 05:25:12.383 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:12.384 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:25:12.385 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad6cb970 state=finished raised APIConnectionError>]
+2025-12-03 05:25:13.985 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.281(s), this was the 3rd time calling it.
+2025-12-03 05:25:18.679 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.985(s), this was the 4th time calling it.
+2025-12-03 05:25:20.516 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 12.813(s), this was the 5th time calling it.
+2025-12-03 05:25:23.739 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 28.187(s), this was the 6th time calling it.
+2025-12-03 05:25:23.740 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:23.740 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:25:23.740 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad708e80 state=finished raised APIConnectionError>]
+2025-12-03 05:25:36.800 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 29.094(s), this was the 6th time calling it.
+2025-12-03 05:25:36.801 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:36.802 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:25:36.802 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad6e5ed0 state=finished raised APIConnectionError>]
+2025-12-03 05:25:36.805 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:172 - Repetition 1: Batch 2 Loss does not require grad and was skipped.
+2025-12-03 05:25:38.301 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.391(s), this was the 1st time calling it.
+2025-12-03 05:25:38.303 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.438(s), this was the 1st time calling it.
+2025-12-03 05:25:40.023 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.125(s), this was the 2nd time calling it.
+2025-12-03 05:25:40.487 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.625(s), this was the 2nd time calling it.
+2025-12-03 05:25:42.679 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.782(s), this was the 3rd time calling it.
+2025-12-03 05:25:42.933 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.079(s), this was the 3rd time calling it.
+2025-12-03 05:25:46.270 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.360(s), this was the 4th time calling it.
+2025-12-03 05:25:47.413 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.563(s), this was the 4th time calling it.
+2025-12-03 05:25:50.131 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.235(s), this was the 5th time calling it.
+2025-12-03 05:25:50.367 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.516(s), this was the 5th time calling it.
+2025-12-03 05:25:58.707 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 21.844(s), this was the 6th time calling it.
+2025-12-03 05:25:58.708 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:58.709 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:25:59.963 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.063(s), this was the 6th time calling it.
+2025-12-03 05:25:59.964 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:25:59.964 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:26:01.953 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.219(s), this was the 1st time calling it.
+2025-12-03 05:26:03.180 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.204(s), this was the 1st time calling it.
+2025-12-03 05:26:04.343 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.610(s), this was the 2nd time calling it.
+2025-12-03 05:26:05.038 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.063(s), this was the 2nd time calling it.
+2025-12-03 05:26:06.740 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.766(s), this was the 3rd time calling it.
+2025-12-03 05:26:06.743 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.016(s), this was the 3rd time calling it.
+2025-12-03 05:26:09.407 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 8.672(s), this was the 4th time calling it.
+2025-12-03 05:26:09.694 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.719(s), this was the 4th time calling it.
+2025-12-03 05:26:15.107 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.125(s), this was the 5th time calling it.
+2025-12-03 05:26:17.218 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 16.485(s), this was the 5th time calling it.
+2025-12-03 05:26:24.992 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.016(s), this was the 6th time calling it.
+2025-12-03 05:26:24.993 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:26:24.993 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:26:27.449 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 26.719(s), this was the 6th time calling it.
+2025-12-03 05:26:27.450 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:26:27.450 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:26:28.244 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 05:26:29.676 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 2.672(s), this was the 2nd time calling it.
+2025-12-03 05:26:30.870 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.406(s), this was the 1st time calling it.
+2025-12-03 05:26:31.554 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 4.563(s), this was the 3rd time calling it.
+2025-12-03 05:26:32.524 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.062(s), this was the 2nd time calling it.
+2025-12-03 05:26:33.351 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.359(s), this was the 4th time calling it.
+2025-12-03 05:26:35.301 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.828(s), this was the 3rd time calling it.
+2025-12-03 05:26:38.727 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.265(s), this was the 4th time calling it.
+2025-12-03 05:26:40.062 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.063(s), this was the 5th time calling it.
+2025-12-03 05:26:40.363 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.890(s), this was the 5th time calling it.
+2025-12-03 05:26:47.356 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.359(s), this was the 6th time calling it.
+2025-12-03 05:26:47.357 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:26:47.357 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:26:50.588 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.235(s), this was the 1st time calling it.
+2025-12-03 05:26:52.767 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.407(s), this was the 2nd time calling it.
+2025-12-03 05:26:53.781 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 24.312(s), this was the 6th time calling it.
+2025-12-03 05:26:53.782 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:26:53.782 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:26:55.835 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.485(s), this was the 3rd time calling it.
+2025-12-03 05:26:57.222 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.438(s), this was the 1st time calling it.
+2025-12-03 05:26:59.218 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.438(s), this was the 2nd time calling it.
+2025-12-03 05:27:00.025 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.672(s), this was the 4th time calling it.
+2025-12-03 05:27:02.578 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.797(s), this was the 3rd time calling it.
+2025-12-03 05:27:07.190 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 11.407(s), this was the 4th time calling it.
+2025-12-03 05:27:07.885 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 18.532(s), this was the 5th time calling it.
+2025-12-03 05:27:09.044 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 13.266(s), this was the 5th time calling it.
+2025-12-03 05:27:10.187 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 20.829(s), this was the 6th time calling it.
+2025-12-03 05:27:10.188 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:27:10.188 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:27:13.390 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.188(s), this was the 1st time calling it.
+2025-12-03 05:27:15.455 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.250(s), this was the 2nd time calling it.
+2025-12-03 05:27:18.382 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 6.188(s), this was the 3rd time calling it.
+2025-12-03 05:27:21.786 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 9.578(s), this was the 4th time calling it.
+2025-12-03 05:27:23.008 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 27.235(s), this was the 6th time calling it.
+2025-12-03 05:27:23.008 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:27:23.009 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:27:26.258 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 1.250(s), this was the 1st time calling it.
+2025-12-03 05:27:27.070 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 14.875(s), this was the 5th time calling it.
+2025-12-03 05:27:28.115 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 3.109(s), this was the 2nd time calling it.
+2025-12-03 05:27:30.032 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 5.015(s), this was the 3rd time calling it.
+2025-12-03 05:27:32.097 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 7.078(s), this was the 4th time calling it.
+2025-12-03 05:27:35.040 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 10.031(s), this was the 5th time calling it.
+2025-12-03 05:27:40.091 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 27.891(s), this was the 6th time calling it.
+2025-12-03 05:27:40.092 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:27:40.093 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:27:40.094 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad6e54b0 state=finished raised APIConnectionError>]
+2025-12-03 05:27:48.325 | WARNING  | tenacity.after:log_it:44 - Finished call to 'maas.provider.openai_api.OpenAILLM.acompletion_text' after 23.312(s), this was the 6th time calling it.
+2025-12-03 05:27:48.325 | ERROR    | maas.utils.common:log_and_reraise:816 - Retry attempts exhausted. Last exception: Connection error.
+2025-12-03 05:27:48.326 | WARNING  | maas.utils.common:log_and_reraise:817 - 
+Recommend going to https://deepwisdom.feishu.cn/wiki/MsGnwQBjiif9c3koSJNcYaoSnu4#part-XdatdVlhEojeAfxaaEZcMV3ZniQ
+See FAQ 5.8
+
+2025-12-03 05:27:48.326 | INFO     | maas.ext.maas.benchmark.squad:evaluate_problem:56 - Skipping sample due to error: RetryError[<Future at 0x1d4ad6e65f0 state=finished raised APIConnectionError>]
+2025-12-03 05:27:48.328 | INFO     | maas.ext.maas.benchmark.benchmark:evaluate_all_problems:172 - Repetition 1: Batch 3 Loss does not require grad and was skipped.
+2025-12-03 05:27:48.391 | INFO     | maas.ext.maas.benchmark.benchmark:save_results_to_csv:66 - Results saved to maas/ext/maas/scripts/optimized/SquAD/train\round_1\0.00000_20251203_052748.csv
+2025-12-03 05:27:48.391 | INFO     | maas.ext.maas.benchmark.benchmark:run_evaluation:213 - Average score on SquAD dataset: 0.00000
+2025-12-03 05:27:48.426 | INFO     | maas.ext.maas.benchmark.benchmark:run_evaluation:219 - Saved controller parameters to maas/ext/maas/scripts/optimized/SquAD/train\round_1\SquAD_controller_sample1.pth
+2025-12-03 05:27:48.426 | INFO     | maas.ext.maas.benchmark.benchmark:run_evaluation:220 - Successfully Finish Training
+2025-12-03 05:27:48.427 | INFO     | maas.ext.maas.scripts.optimizer:optimize:84 - Error occurred: DataUtils.create_result_data() missing 3 required positional arguments: 'avg_cost', 'total_cost', and 'token'. Retrying... (Attempt 1/1)
+2025-12-03 05:27:48.427 | INFO     | maas.ext.maas.scripts.optimizer:optimize:86 - Max retries reached. Moving to next round.
+2025-12-03 05:27:53.438 | INFO     | maas.ext.maas.scripts.optimizer:optimize:96 - Score for round 1: None

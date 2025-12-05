@@ -4,11 +4,11 @@
 llm:
   api_type: "openai"  # or azure / ollama / groq etc.
   model: "gpt-4o-mini"  #  gpt-3.5-turbo or gpt-4-turbo
-  base_url: ""  # or forward url / other llm url
-  api_key: ""
+  base_url: "https://api.openai.com/v1"  
+  api_key: "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"
 models:
   gpt-4o-mini:
     api_type: "openai"  # or azure / ollama / groq etc.
     model: "gpt-4o-mini"  #  gpt-3.5-turbo or gpt-4-turbo
-    base_url: ""  # or forward url / other llm url
-    api_key: ""
+    base_url: "https://api.openai.com/v1"  # or forward url / other llm url
+    api_key: "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"

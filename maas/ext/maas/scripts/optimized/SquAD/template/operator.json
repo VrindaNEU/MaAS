@@ -1,0 +1,22 @@
+{
+    "Generate": {
+        "description": "Generates a concise answer from the provided context and instruction. Use for extracting or composing short factual answers from passages.",
+        "interface": "generate(input: str, instruction: str) -> dict with key 'response' of type str"
+    },
+    "ScEnsemble": {
+        "description": "Given several candidate textual answers, evaluate and select the most consistent/best option using self-consistency and scoring heuristics.",
+        "interface": "sc_ensemble(solutions: List[str], problem: str) -> dict with key 'response' of type str"
+    },
+    "SelfRefine": {
+        "description": "Takes a candidate answer and refines it by checking for grounding in the context and improving clarity or correctness.",
+        "interface": "self_refine(problem: str, solution: str) -> dict with key 'response' of type str"
+    },
+    "EarlyStop": {
+        "description": "When selected, terminate the workflow early to avoid running additional operators on this example.",
+        "interface": "early_stop() -> dict with key 'terminate' of type bool"
+    },
+    "Test": {
+        "description": "Performs a lightweight correctness check by comparing a predicted answer to the gold answer using normalization (lowercase, strip punctuation/articles). Useful for quick EM-style checks during experiments.",
+        "interface": "test(predicted: str, gold: str) -> dict with keys 'correct' (bool), 'predicted' (str), 'gold' (str)"
+    }
+}

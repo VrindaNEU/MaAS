@@ -1,0 +1,26 @@
+{
+  "Generate": {
+    "description": "Generates an extractive answer given context and question. Returns a JSON object with 'final_answer', 'start_char', 'end_char' (start index 0-based, end exclusive).",
+    "interface": "generate(context: str, question: str) -> dict with keys 'final_answer' (str), 'start_char' (int), 'end_char' (int)"
+  },
+  "GenerateCoT": {
+    "description": "Generates an extractive answer using chain-of-thought / analysis. Returns JSON with 'final_answer', 'start_char', 'end_char', and 'analysis' (string).",
+    "interface": "generate_cot(context: str, question: str) -> dict with keys 'final_answer' (str), 'start_char' (int), 'end_char' (int), 'analysis' (str)"
+  },
+  "MultiGenerateCoT": {
+    "description": "Produces multiple candidate extractive answers by running GenerateCoT multiple times. Returns a dict with key 'response' containing a list of candidate JSON objects (each with 'final_answer','start_char','end_char').",
+    "interface": "multi_generate_cot(context: str, question: str) -> dict {'response': List[dict]}"
+  },
+  "ScEnsemble": {
+    "description": "Given multiple candidate answers (strings) and the context + question, selects the best extractive candidate and returns its letter and exact span in the context.",
+    "interface": "sc_ensemble(solutions: List[str], context: str, question: str) -> dict with keys 'solution_letter' (str), 'solution' (str), 'start_char' (int), 'end_char' (int)"
+  },
+  "SelfRefine": {
+    "description": "Refines a candidate extractive answer by verifying and (if necessary) extracting a correct span from the context.",
+    "interface": "self_refine(context: str, question: str, candidate_answer: str) -> dict with keys 'refined_answer' (str), 'start_char' (int), 'end_char' (int), 'valid' (bool), 'note' (str, optional)"
+  },
+  "EarlyStop": {
+    "description": "Signals an early termination of the operator workflow. Returns an object indicating termination.",
+    "interface": "early_stop() -> dict with key 'terminate' (bool)"
+  }
+}

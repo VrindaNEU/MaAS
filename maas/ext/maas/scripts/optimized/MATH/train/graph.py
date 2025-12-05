@@ -1,7 +1,7 @@
 import torch
-import maas.ext.maas.scripts.optimized.MATH.train.template.prompt as prompt_custom
-import maas.ext.maas.scripts.optimized.MATH.train.template.operator as operator
-from maas.ext.maas.scripts.optimized.MATH.train.template.operator_registry import operator_mapping, operator_names
+import maas.ext.maas.scripts.optimized.SquAD.train.template.prompt as prompt_custom
+import maas.ext.maas.scripts.optimized.SquAD.train.template.operator as operator
+from maas.ext.maas.scripts.optimized.SquAD.train.template.operator_registry import operator_mapping, operator_names
 from maas.provider.llm_provider_registry import create_llm_instance
 from maas.utils.cost_manager import CostManager
 from maas.logs import logger
@@ -21,7 +21,6 @@ class Workflow:
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.llm.cost_manager = CostManager()
         self.custom = operator.Generate(self.llm)
-        self.programmer = operator.Programmer(self.llm)
         self.sc_ensemble = operator.ScEnsemble(self.llm)
 
         self.controller = controller.to(self.device)
@@ -39,11 +38,11 @@ class Workflow:
         solutions = []
         sum_log_prob = 0.0
         
-        code_solution = await self.programmer(problem=problem)
+        # Initial answer (basic LLM generation)
+        initial = await self.custom(input=problem, instruction=prompt_custom.GENERATE_QA_ANSWER_PROMPT)
+        solutions.append(initial['response'])
+        current_solution = initial['response']
 
-        refined_solution = await self.custom(input=problem + f"\nCode output: {code_solution['output']}", instruction=prompt_custom.REFINE_ANSWER_PROMPT)
-
-        solutions.append(refined_solution['response'])
 
         for layer_idx, selected_names in enumerate(selected_names_layers):
             for op_name in selected_names:
@@ -57,24 +56,11 @@ class Workflow:
                     result = await selected_operator(problem=problem, solution=current_solution)
                     new_solution = result.get('response', "")
                     solutions.append(new_solution)
-                elif op_name == "Programmer":
-                    result = await selected_operator(problem=problem, analysis=current_solution)
-                    new_solution = result['output']
-                    solutions.append(new_solution)
                 elif op_name == "ScEnsemble":
                     result = await selected_operator(problem=problem, solutions=solutions)
                     solutions = []
                     new_solution = result.get('response', "")
                     solutions.append(new_solution)
-                elif op_name == "MultiGenerateCoT":
-                    result = await selected_operator(input=problem, instruction=prompt_custom.GENERATE_SOLUTION_PROMPT)
-                    if isinstance(result, dict) and 'response' in result:
-                        for res in result['response']:
-                            new_solution = res.get('response', "")
-                            solutions.append(new_solution)
-                    else:
-                        logger.error(f"Expected dict with 'responses' from MultiGenerateCoT, got {type(result)}")
-                        new_solution = current_solution
                 else:
                     new_solution = current_solution
 

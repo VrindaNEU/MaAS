@@ -3,6 +3,8 @@ from maas.configs.models_config import ModelsConfig
 from maas.ext.maas.scripts.optimizer import Optimizer
 from maas.ext.maas.benchmark.experiment_configs import EXPERIMENT_CONFIGS
 
+
+
 def parse_args():
     parser = argparse.ArgumentParser(description="MAAS Optimizer")
     parser.add_argument(
@@ -51,12 +53,28 @@ if __name__ == "__main__":
             "Please add it to the configuration file or specify a valid model using the --opt_model_name flag. "
         )
 
+
+    # Keep as LLMConfig object
     exec_llm_config = models_config.get(args.exec_model_name)
     if exec_llm_config is None:
         raise ValueError(
             f"The execution model '{args.exec_model_name}' was not found in the 'models' section of the configuration file. "
-            "Please add it to the configuration file or specify a valid model using the --exec_model_name flag. "
         )
+
+    # Set only existing fields
+    exec_llm_config.temperature = 0.0
+    exec_llm_config.top_p = 1.0
+
+    # For parameters that LLMConfig doesn't have (like max_tokens, instructions),
+    # pass them in params to Optimizer instead
+    extra_exec_params = {
+        "max_tokens": 128,
+        "response_format": "plain_text",
+        "instructions": "Answer in a single phrase exactly from the context; no explanations"
+    }
+
+
+
 
     optimizer = Optimizer(
         dataset=config.dataset, 

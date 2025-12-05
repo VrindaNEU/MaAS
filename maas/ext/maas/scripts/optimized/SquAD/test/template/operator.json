@@ -1,0 +1,26 @@
+{
+    "Generate": {
+        "description": "Generates a short extractive answer directly from the context and question. Returns only the answer phrase with no reasoning or explanation.",
+        "interface": "generate(context: str, question: str) -> dict with key 'response' of type str"
+    },
+
+    "MultiGenerate": {
+        "description": "Generates multiple candidate short answers (extractive). Useful for ensemble selection.",
+        "interface": "multi_generate(context: str, question: str) -> dict with key 'response' of type List[str]"
+    },
+
+    "Refine": {
+        "description": "Refines a previously generated short answer using the context. Ensures the output is directly supported by the context and returns only the corrected phrase.",
+        "interface": "refine(context: str, question: str, previous_answer: str) -> dict with key 'response' of type str"
+    },
+
+    "EnsembleSelect": {
+        "description": "Given multiple candidate answers, selects the single best answer based strictly on contextual support. Returns only one short phrase from the provided candidates.",
+        "interface": "ensemble_select(context: str, question: str, candidates: List[str]) -> dict with key 'response' of type str"
+    },
+
+    "EarlyStop": {
+        "description": "This operator immediately terminates the workflow when triggered, preventing further operators from executing.",
+        "interface": "early_stop() -> dict with key 'terminate' of type bool"
+    }
+}

@@ -1,0 +1,660 @@
+[
+    {
+        "question": "All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\nWhat entity provides help with the management of time for new students at Notre Dame?",
+        "right_answer": "Learning Resource Center",
+        "model_output": "### Problem Statement\nThe problem requires us to identify the entity that provides assistance with time management for new students at Notre Dame, based on the provided information.\n\n### Approach\nTo solve this problem, we will analyze the information given about the First Year of Studies program at Notre Dame. We will look for specific mentions of resources or entities that assist students, particularly focusing on time management.\n\n### Analysis of the Information\nThe text states that:\n- The First Year of Studies program was established to guide incoming freshmen.\n- Each student is assigned an academic advisor to help them choose classes.\n- The program includes a Learning Resource Center that provides various forms of support.\n\nAmong the services mentioned, we need to focus on the specific support related to time management. The text explicitly states that the Learning Resource Center provides \"time management, collaborative learning, and subject tutoring.\"\n\n### Step-by-Step Conclusion\n1. **Identify the Program**: The First Year of Studies program is designed for incoming freshmen.\n2. **Identify the Support Offered**: The program includes an academic advisor and a Learning Resource Center.\n3. **Focus on Time Management**: The Learning Resource Center is specifically mentioned as providing help with time management.\n\n### Code Output Interpretation\nThe code output states \"Learning Resource Center.\" This aligns perfectly with our analysis, confirming that the Learning Resource Center is indeed the entity responsible for helping new students with time management.\n\n### Final Answer\nBased on the analysis and the code output, we conclude that the entity that provides help with the management of time for new students at Notre Dame is the Learning Resource Center.\n\n\\[\n\\boxed{\\text{Learning Resource Center}}\n\\]",
+        "extracted_output": "### Problem Statement\nThe problem requires us to identify the entity that provides assistance with time management for new students at Notre Dame, based on the provided information.\n\n### Approach\nTo solve this problem, we will analyze the information given about the First Year of Studies program at Notre Dame. We will look for specific mentions of resources or entities that assist students, particularly focusing on time management.\n\n### Analysis of the Information\nThe text states that:\n- The First Year of Studies program was established to guide incoming freshmen.\n- Each student is assigned an academic advisor to help them choose classes.\n- The program includes a Learning Resource Center that provides various forms of support.\n\nAmong the services mentioned, we need to focus on the specific support related to time management. The text explicitly states that the Learning Resource Center provides \"time management, collaborative learning, and subject tutoring.\"\n\n### Step-by-Step Conclusion\n1. **Identify the Program**: The First Year of Studies program is designed for incoming freshmen.\n2. **Identify the Support Offered**: The program includes an academic advisor and a Learning Resource Center.\n3. **Focus on Time Management**: The Learning Resource Center is specifically mentioned as providing help with time management.\n\n### Code Output Interpretation\nThe code output states \"Learning Resource Center.\" This aligns perfectly with our analysis, confirming that the Learning Resource Center is indeed the entity responsible for helping new students with time management.\n\n### Final Answer\nBased on the analysis and the code output, we conclude that the entity that provides help with the management of time for new students at Notre Dame is the Learning Resource Center.\n\n\\[\n\\boxed{\\text{Learning Resource Center}}\n\\]",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow many student news papers are found at Notre Dame?",
+        "right_answer": "three",
+        "model_output": "### Problem Statement\nWe need to determine the number of student-run newspapers at Notre Dame based on the provided information about various media outlets.\n\n### Approach\nTo solve this problem, we will analyze the text to identify and count the student-run newspapers mentioned. We will categorize the outlets based on their type (newspapers, magazines, journals, etc.) and focus specifically on the newspapers.\n\n### Identification of Newspapers\nFrom the provided information, we can extract the following details about the student-run outlets:\n\n1. **The Observer** - Published daily, primarily reporting university and other news.\n2. **Common Sense** - A liberal newspaper published in response to perceived bias in The Observer.\n3. **Irish Rover** - A conservative newspaper published in response to perceived bias in The Observer.\n\n### Step-by-Step Calculation\nNow, we will list the identified newspapers:\n\n- **The Observer**\n- **Common Sense**\n- **Irish Rover**\n\nNext, we count the number of newspapers:\n\n\\[\n\\text{Number of newspapers} = 3\n\\]\n\n### Code Output Interpretation\nThe code output confirms our findings by stating that there are 3 student newspapers at Notre Dame. This aligns perfectly with our manual count of the newspapers identified in the text.\n\n### Final Answer\nThus, the total number of student newspapers at Notre Dame is:\n\n\\[\n\\boxed{3}\n\\]",
+        "extracted_output": "### Problem Statement\nWe need to determine the number of student-run newspapers at Notre Dame based on the provided information about various media outlets.\n\n### Approach\nTo solve this problem, we will analyze the text to identify and count the student-run newspapers mentioned. We will categorize the outlets based on their type (newspapers, magazines, journals, etc.) and focus specifically on the newspapers.\n\n### Identification of Newspapers\nFrom the provided information, we can extract the following details about the student-run outlets:\n\n1. **The Observer** - Published daily, primarily reporting university and other news.\n2. **Common Sense** - A liberal newspaper published in response to perceived bias in The Observer.\n3. **Irish Rover** - A conservative newspaper published in response to perceived bias in The Observer.\n\n### Step-by-Step Calculation\nNow, we will list the identified newspapers:\n\n- **The Observer**\n- **Common Sense**\n- **Irish Rover**\n\nNext, we count the number of newspapers:\n\n\\[\n\\text{Number of newspapers} = 3\n\\]\n\n### Code Output Interpretation\nThe code output confirms our findings by stating that there are 3 student newspapers at Notre Dame. This aligns perfectly with our manual count of the newspapers identified in the text.\n\n### Final Answer\nThus, the total number of student newspapers at Notre Dame is:\n\n\\[\n\\boxed{3}\n\\]",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "### Problem Statement\nWe need to determine the structure that is adjacent to the Basilica of the Sacred Heart at Notre Dame, based on the provided architectural description.\n\n### Approach\nTo solve this problem, we will analyze the given description of the architectural layout surrounding the Basilica of the Sacred Heart. We will identify the relationships between the various structures mentioned and determine which one is directly beside the Basilica.\n\n### Analysis of the Description\n1. **Main Building**: The description states that the Basilica of the Sacred Heart is located next to the Main Building.\n2. **Grotto**: The Grotto is mentioned as being immediately behind the Basilica, indicating that it is not adjacent to the Basilica but rather positioned behind it.\n3. **Statues**: The description includes several statues, including a golden statue of the Virgin Mary atop the Main Building and a copper statue of Christ in front of the Main Building. However, these statues do not affect the adjacency of the Basilica.\n\n### Step-by-Step Interpretation\nFrom the description:\n- The Basilica of the Sacred Heart is next to the **Main Building**.\n- The Grotto is behind the Basilica, which means it is not adjacent to it.\n- The only structure mentioned that is directly beside the Basilica is the **Main Building**.\n\n### Code Output Interpretation\nThe code output states \"Main Building\", which confirms our analysis that the structure adjacent to the Basilica of the Sacred Heart is indeed the Main Building.\n\n### Final Answer\nThus, the structure that is beside the Basilica of the Sacred Heart is the Main Building. We can express this in LaTeX notation as follows:\n\n\\[\n\\boxed{\\text{Main Building}}\n\\]",
+        "extracted_output": "### Problem Statement\nWe need to determine the structure that is adjacent to the Basilica of the Sacred Heart at Notre Dame, based on the provided architectural description.\n\n### Approach\nTo solve this problem, we will analyze the given description of the architectural layout surrounding the Basilica of the Sacred Heart. We will identify the relationships between the various structures mentioned and determine which one is directly beside the Basilica.\n\n### Analysis of the Description\n1. **Main Building**: The description states that the Basilica of the Sacred Heart is located next to the Main Building.\n2. **Grotto**: The Grotto is mentioned as being immediately behind the Basilica, indicating that it is not adjacent to the Basilica but rather positioned behind it.\n3. **Statues**: The description includes several statues, including a golden statue of the Virgin Mary atop the Main Building and a copper statue of Christ in front of the Main Building. However, these statues do not affect the adjacency of the Basilica.\n\n### Step-by-Step Interpretation\nFrom the description:\n- The Basilica of the Sacred Heart is next to the **Main Building**.\n- The Grotto is behind the Basilica, which means it is not adjacent to it.\n- The only structure mentioned that is directly beside the Basilica is the **Main Building**.\n\n### Code Output Interpretation\nThe code output states \"Main Building\", which confirms our analysis that the structure adjacent to the Basilica of the Sacred Heart is indeed the Main Building.\n\n### Final Answer\nThus, the structure that is beside the Basilica of the Sacred Heart is the Main Building. We can express this in LaTeX notation as follows:\n\n\\[\n\\boxed{\\text{Main Building}}\n\\]",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "### Problem Statement\nThe problem asks to identify the individual to whom the Virgin Mary allegedly appeared in 1858 in Lourdes, France.\n\n### Approach\nTo solve this problem, we need to refer to historical accounts and religious texts regarding the apparitions of the Virgin Mary. The most notable event occurred in Lourdes, where a young girl named Bernadette Soubirous reported seeing the Virgin Mary multiple times.\n\n### Historical Context\nIn 1858, Bernadette Soubirous, a 14-year-old peasant girl, experienced a series of visions of the Virgin Mary in a grotto near Lourdes, France. These apparitions became significant in Catholic tradition, leading to the establishment of the Sanctuary of Our Lady of Lourdes, a major pilgrimage site.\n\n### Step-by-Step Explanation\n1. **Identify the Year and Location**: The apparitions took place in 1858 in Lourdes, France.\n2. **Identify the Visionary**: The individual who witnessed these apparitions was a young girl named Bernadette Soubirous.\n3. **Significance of the Apparitions**: The Virgin Mary is said to have revealed herself to Bernadette, leading to her becoming a saint in the Catholic Church.\n\n### Code Output Interpretation\nThe code output states: \"Saint Bernadette Soubirous\". This confirms our historical understanding that the Virgin Mary appeared to Bernadette Soubirous in 1858.\n\n### Final Answer\nThus, the individual to whom the Virgin Mary allegedly appeared in 1858 in Lourdes, France, is:\n\n\\[\n\\boxed{\\text{Saint Bernadette Soubirous}}\n\\]",
+        "extracted_output": "### Problem Statement\nThe problem asks to identify the individual to whom the Virgin Mary allegedly appeared in 1858 in Lourdes, France.\n\n### Approach\nTo solve this problem, we need to refer to historical accounts and religious texts regarding the apparitions of the Virgin Mary. The most notable event occurred in Lourdes, where a young girl named Bernadette Soubirous reported seeing the Virgin Mary multiple times.\n\n### Historical Context\nIn 1858, Bernadette Soubirous, a 14-year-old peasant girl, experienced a series of visions of the Virgin Mary in a grotto near Lourdes, France. These apparitions became significant in Catholic tradition, leading to the establishment of the Sanctuary of Our Lady of Lourdes, a major pilgrimage site.\n\n### Step-by-Step Explanation\n1. **Identify the Year and Location**: The apparitions took place in 1858 in Lourdes, France.\n2. **Identify the Visionary**: The individual who witnessed these apparitions was a young girl named Bernadette Soubirous.\n3. **Significance of the Apparitions**: The Virgin Mary is said to have revealed herself to Bernadette, leading to her becoming a saint in the Catholic Church.\n\n### Code Output Interpretation\nThe code output states: \"Saint Bernadette Soubirous\". This confirms our historical understanding that the Virgin Mary appeared to Bernadette Soubirous in 1858.\n\n### Final Answer\nThus, the individual to whom the Virgin Mary allegedly appeared in 1858 in Lourdes, France, is:\n\n\\[\n\\boxed{\\text{Saint Bernadette Soubirous}}\n\\]",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "### Problem Statement\nThe problem asks for the identification of the object that sits atop the Main Building at Notre Dame.\n\n### Approach\nTo solve this problem, we will analyze the provided information about the architectural features of the school, particularly focusing on the Main Building. We will extract relevant details from the description and confirm the identity of the statue located on the dome of the Main Building.\n\n### Analysis of the Description\nThe description mentions several key features of the Notre Dame campus:\n- The Main Building has a **gold dome**.\n- Atop this dome is a **golden statue of the Virgin Mary**.\n- There are other statues and buildings mentioned, but they are not directly related to the object on the dome.\n\n### Step-by-Step Verification\n1. **Identify the Main Building**: The Main Building is a prominent structure on the Notre Dame campus, known for its distinctive gold dome.\n2. **Statue on the Dome**: The description explicitly states that there is a golden statue on top of the Main Building.\n3. **Specific Identification**: The text specifies that this statue is of the **Virgin Mary**.\n\n### Code Output Interpretation\nThe code output states: \"golden statue of the Virgin Mary\". This directly confirms our findings from the description. The output aligns perfectly with the information provided, reinforcing that the object in question is indeed the golden statue of the Virgin Mary.\n\n### Final Answer\nBased on the analysis and the confirmation from the code output, we conclude that the object that sits atop the Main Building at Notre Dame is:\n\n\\[\n\\boxed{\\text{golden statue of the Virgin Mary}}\n\\]",
+        "extracted_output": "### Problem Statement\nThe problem asks for the identification of the object that sits atop the Main Building at Notre Dame.\n\n### Approach\nTo solve this problem, we will analyze the provided information about the architectural features of the school, particularly focusing on the Main Building. We will extract relevant details from the description and confirm the identity of the statue located on the dome of the Main Building.\n\n### Analysis of the Description\nThe description mentions several key features of the Notre Dame campus:\n- The Main Building has a **gold dome**.\n- Atop this dome is a **golden statue of the Virgin Mary**.\n- There are other statues and buildings mentioned, but they are not directly related to the object on the dome.\n\n### Step-by-Step Verification\n1. **Identify the Main Building**: The Main Building is a prominent structure on the Notre Dame campus, known for its distinctive gold dome.\n2. **Statue on the Dome**: The description explicitly states that there is a golden statue on top of the Main Building.\n3. **Specific Identification**: The text specifies that this statue is of the **Virgin Mary**.\n\n### Code Output Interpretation\nThe code output states: \"golden statue of the Virgin Mary\". This directly confirms our findings from the description. The output aligns perfectly with the information provided, reinforcing that the object in question is indeed the golden statue of the Virgin Mary.\n\n### Final Answer\nBased on the analysis and the confirmation from the code output, we conclude that the object that sits atop the Main Building at Notre Dame is:\n\n\\[\n\\boxed{\\text{golden statue of the Virgin Mary}}\n\\]",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhen did the Scholastic Magazine of Notre dame begin publishing?",
+        "right_answer": "September 1876",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow often is Notre Dame's the Juggler published?",
+        "right_answer": "twice",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhat is the daily student paper at Notre Dame called?",
+        "right_answer": "The Observer",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhere is the headquarters of the Congregation of the Holy Cross?",
+        "right_answer": "Rome",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow many student news papers are found at Notre Dame?",
+        "right_answer": "three",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhat is the primary seminary of the Congregation of the Holy Cross?",
+        "right_answer": "Moreau Seminary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nIn what year did the student paper Common Sense begin publication at Notre Dame?",
+        "right_answer": "1987",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhich prize did Frederick Buechner create?",
+        "right_answer": "Buechner Prize for Preaching",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhat individuals live at Fatima House at Notre Dame?",
+        "right_answer": "Retired priests and brothers",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhat is the oldest structure at Notre Dame?",
+        "right_answer": "Old College",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.\nHow many BS level degrees are offered in the College of Engineering at Notre Dame?",
+        "right_answer": "eight",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.\nIn what year was the College of Engineering at Notre Dame formed?",
+        "right_answer": "1920",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.\nThe College of Science began to offer civil engineering courses beginning at what time at Notre Dame?",
+        "right_answer": "the 1870s",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.\nBefore the creation of the College of Engineering similar studies were carried out at which Notre Dame college?",
+        "right_answer": "the College of Science",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.\nHow many departments are within the Stinson-Remick Hall of Engineering?",
+        "right_answer": "five",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\nWhat entity provides help with the management of time for new students at Notre Dame?",
+        "right_answer": "Learning Resource Center",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\nWhat was created at Notre Dame in 1962 to assist first year students?",
+        "right_answer": "The First Year of Studies program",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\nHow many colleges for undergraduates are at Notre Dame?",
+        "right_answer": "five",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\nWhich organization declared the First Year of Studies program at Notre Dame \"outstanding?\"",
+        "right_answer": "U.S. News & World Report",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.\nWhich program at Notre Dame offers a Master of Education degree?",
+        "right_answer": "Alliance for Catholic Education",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.\nIn what year was a Master of Arts course first offered at Notre Dame?",
+        "right_answer": "1854",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.\nWhat type of degree is an M.Div.?",
+        "right_answer": "Master of Divinity",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.\nThe granting of Doctorate degrees first occurred in what year at Notre Dame?",
+        "right_answer": "1924",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.\nWhat is the title of Notre Dame's Theodore Hesburgh?",
+        "right_answer": "President Emeritus of the University of Notre Dame",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.\nIn what year was the Joan B. Kroc Institute for International Peace Studies founded?",
+        "right_answer": "1986",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.\nWhat institute at Notre Dame studies  the reasons for violent conflict?",
+        "right_answer": "Joan B. Kroc Institute for International Peace Studies",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.\nWhich department at Notre Dame is the only one to not offer a PhD program?",
+        "right_answer": "Department of Pre-Professional Studies",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhat is the daily student paper at Notre Dame called?",
+        "right_answer": "The Observer",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow often is Notre Dame's the Juggler published?",
+        "right_answer": "twice",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhen did the Scholastic Magazine of Notre dame begin publishing?",
+        "right_answer": "September 1876",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nIn what year did the student paper Common Sense begin publication at Notre Dame?",
+        "right_answer": "1987",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhere is the headquarters of the Congregation of the Holy Cross?",
+        "right_answer": "Rome",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhat is the primary seminary of the Congregation of the Holy Cross?",
+        "right_answer": "Moreau Seminary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow many student news papers are found at Notre Dame?",
+        "right_answer": "three",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow often is Notre Dame's the Juggler published?",
+        "right_answer": "twice",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhen did the Scholastic Magazine of Notre dame begin publishing?",
+        "right_answer": "September 1876",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhat is the daily student paper at Notre Dame called?",
+        "right_answer": "The Observer",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow many student news papers are found at Notre Dame?",
+        "right_answer": "three",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nIn what year did the student paper Common Sense begin publication at Notre Dame?",
+        "right_answer": "1987",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhere is the headquarters of the Congregation of the Holy Cross?",
+        "right_answer": "Rome",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhat is the primary seminary of the Congregation of the Holy Cross?",
+        "right_answer": "Moreau Seminary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhen did the Scholastic Magazine of Notre dame begin publishing?",
+        "right_answer": "September 1876",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow often is Notre Dame's the Juggler published?",
+        "right_answer": "twice",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhat is the daily student paper at Notre Dame called?",
+        "right_answer": "The Observer",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow often is Notre Dame's the Juggler published?",
+        "right_answer": "twice",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhen did the Scholastic Magazine of Notre dame begin publishing?",
+        "right_answer": "September 1876",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhat is the daily student paper at Notre Dame called?",
+        "right_answer": "The Observer",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nTo whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "right_answer": "Saint Bernadette Soubirous",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is in front of the Notre Dame Main Building?",
+        "right_answer": "a copper statue of Christ",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nThe Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "right_answer": "the Main Building",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat is the Grotto at Notre Dame?",
+        "right_answer": "a Marian place of prayer and reflection",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow often is Notre Dame's the Juggler published?",
+        "right_answer": "twice",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhen did the Scholastic Magazine of Notre dame begin publishing?",
+        "right_answer": "September 1876",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nWhat is the daily student paper at Notre Dame called?",
+        "right_answer": "The Observer",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.\nWhat sits on top of the Main Building at Notre Dame?",
+        "right_answer": "a golden statue of the Virgin Mary",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nIn what year did the student paper Common Sense begin publication at Notre Dame?",
+        "right_answer": "1987",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.\nHow many student news papers are found at Notre Dame?",
+        "right_answer": "three",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.\nWhere is the headquarters of the Congregation of the Holy Cross?",
+        "right_answer": "Rome",
+        "model_output": "",
+        "extracted_output": "",
+        "extract_answer_code": "None"
+    }
+]

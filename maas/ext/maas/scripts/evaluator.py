@@ -3,8 +3,9 @@ from maas.ext.maas.benchmark.benchmark import BaseBenchmark
 from maas.ext.maas.benchmark.gsm8k import GSM8KBenchmark
 from maas.ext.maas.benchmark.humaneval import HumanEvalBenchmark
 from maas.ext.maas.benchmark.math import MATHBenchmark
+from maas.ext.maas.benchmark.squad import SQuADBenchmark
 
-DatasetType = Literal["HumanEval", "GSM8K", "MATH"]
+DatasetType = Literal["HumanEval", "GSM8K", "MATH", "SquAD"]
 
 
 class Evaluator:
@@ -15,6 +16,7 @@ class Evaluator:
             "GSM8K": GSM8KBenchmark,
             "MATH": MATHBenchmark,
             "HumanEval": HumanEvalBenchmark,
+            "SquAD": SQuADBenchmark,
         }
 
     async def graph_evaluate(
